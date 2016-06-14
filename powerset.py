@@ -1,4 +1,4 @@
-#
+#Author : Prabhu Gnana Sundar <pprabhugs@gmail.com>#
 #Python program to find the sum of power sets
 #
 from itertools import chain, combinations

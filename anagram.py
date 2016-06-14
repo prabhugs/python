@@ -1,3 +1,5 @@
+#Author : Prabhu Gnana Sundar <pprabhugs@gmail.com>
+
 def find_anagram(s1, s2):
 
   ls1 = list(s1)
